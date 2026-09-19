@@ -16,4 +16,4 @@ Yes. Quo. schedules upcoming quotes with iOS so the widget rotates on time even 
 ## Contact
 
 Bug reports and questions: open an issue at
-https://github.com/Mendozaliner/QuoApplication/issues
+https://github.com/Mendozaliner/QuoApplicationPrivacyPolicy/issues
